@@ -1,0 +1,8 @@
+{
+  "name": "MoistureTech Academy",
+  "description": "A professional-grade mobile education platform for moisture technicians (fukttekniker), featuring advanced psychrometric calculators, structured learning paths, and an AI-powered moisture tutor.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
